@@ -1,0 +1,29 @@
+{
+    "linkedin": {
+        "credentials": {
+            "client_id": "",
+
+            "client_secret": "",
+
+            "redirect_uri": "",
+
+            "token_url": "",
+
+            "base_url": "",
+            "authorization_url": "",
+            "access_token": ""
+        },
+
+        "parameters": {
+            "organization_URN": "",
+            "organization_id": "",
+            "start_time": "",
+            "end_time": "",
+            "headers": "",
+            "data": ""
+        },
+        "path": {
+            "output_json_filepath": ""
+        }
+    }
+}
